@@ -41,5 +41,3 @@ try:
 except KeyError:
     print("Can't find any song,check your network or try a new word")
 
-# hey i'm learning  git.
-# i welcome you too to come and learn
